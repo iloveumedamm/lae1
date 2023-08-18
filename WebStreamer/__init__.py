@@ -3,7 +3,7 @@
 
 
 import time
-from config import Var
+from .config import Var
 from WebStreamer.bot.clients import StreamBot
 
 __version__ = 2.23
